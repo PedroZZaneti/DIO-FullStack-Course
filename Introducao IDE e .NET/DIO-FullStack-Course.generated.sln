@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIO-FullStack-Course", "Introducao IDE e .NET\DIO-FullStack-Course.csproj", "{CA3EB1A1-AE7B-4F94-B824-A9658E6D8935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA3EB1A1-AE7B-4F94-B824-A9658E6D8935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3EB1A1-AE7B-4F94-B824-A9658E6D8935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3EB1A1-AE7B-4F94-B824-A9658E6D8935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3EB1A1-AE7B-4F94-B824-A9658E6D8935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C160DE24-AFE6-4905-A471-037A9170C2F8}
+	EndGlobalSection
+EndGlobal

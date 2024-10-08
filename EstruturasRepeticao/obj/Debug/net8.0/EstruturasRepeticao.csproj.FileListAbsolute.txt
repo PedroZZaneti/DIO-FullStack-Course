@@ -1,0 +1,14 @@
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.exe
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.deps.json
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.runtimeconfig.json
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.dll
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.pdb
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.AssemblyInfo.cs
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.dll
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\obj\Debug\net8.0\refint\EstruturasRepeticao.dll
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.pdb
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.genruntimeconfig.cache
+C:\Users\p.zucarato\Desktop\DIO-FullStack-Course\EstruturasRepeticao\obj\Debug\net8.0\ref\EstruturasRepeticao.dll
